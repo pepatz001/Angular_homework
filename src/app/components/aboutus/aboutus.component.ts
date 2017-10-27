@@ -16,12 +16,12 @@ export class AboutusComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.ID = "58102010823"
-    this.name ="Rujirat Sutimonrat"
-    this.nickname = "MinT"
-    this.dob = "03 May 1997"
-    this.email = "rujirat.mint@g.swu.ac.th"
-    this.tel = "085-824-2310"
+    this.ID = "58102010827"
+    this.name ="Sira Lownoppakul"
+    this.nickname = "PePat"
+    this.dob = "27 Mar 1997"
+    this.email = "sira.pepat@g.swu.ac.th"
+    this.tel = "092 564 9892"
   }
 
 }

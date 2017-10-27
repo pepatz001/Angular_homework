@@ -7,16 +7,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FavfoodComponent implements OnInit {
 
-  private pizza: string;
-  private cheese: string;
-  private seafood: string;
+  private kanamukob: string;
+  private howheat: string;
+  private cheeseball: string;
 
   constructor() { }
 
   ngOnInit() {
-    this.pizza = "PizzA"
-    this.cheese ="Cheese Stick"
-    this.seafood = "SeaFood"
+    this.kanamukob = "คะน้าหมูกรอบ"
+    this.howheat ="howheat"
+    this.cheeseball = "cheeseball"
   }
 
 }
